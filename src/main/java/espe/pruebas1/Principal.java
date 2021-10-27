@@ -1,7 +1,7 @@
 package espe.pruebas1;
 
 public class Principal {
-//prueba
+//prueba  de subida de datos
 	public static void main(String[] args) {
 		Cuadrado figura1 = new Cuadrado (1, "Azul", 2.2);
 		Esfera figura2 = new Esfera (2, "Rojo", 3.2);
